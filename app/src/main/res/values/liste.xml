@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listedesserts">
+        <item>Tiramisu maison</item>
+        <item>Iles flottantes</item>
+        <item>Crème brulée maison</item>
+        <item>Salade de fruits frais</item>
+        <item>Mousse au chocolat</item>
+    </string-array>
+    <string-array name="listeplats">
+        <item>Tournedos de boeuf rossini</item>
+        <item>Magret de canard</item>
+        <item>Faux filet</item>
+        <item>Risottos aux légumes et parmesan</item>
+        <item>Lasagnes à la ratatouille</item>
+    </string-array>
+    <string-array name="listeentrees">
+        <item>Foie gras fait maison</item>
+        <item>Oeuf mayonnaise maison</item>
+    </string-array>
+    <string-array name="listequantite">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
